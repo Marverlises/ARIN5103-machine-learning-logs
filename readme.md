@@ -1,4 +1,4 @@
-### ARIN5103 Project: Class-Agnostic Counting with a Similarity-Aware Framework  
+### ARIN5103 Project: Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (Ablation Studies)  
 
 ---
 
