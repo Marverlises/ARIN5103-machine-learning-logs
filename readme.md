@@ -35,7 +35,7 @@ Core components:
 
 - **`ml_SS_only/`**  
   - Only **Self-Similarity (SS)** is enabled.  
-- 
+
 - **`VIT_backbone/`**  
   - Experiments using a **ViT/Transformer-based backbone** instead of ResNet-50 as the feature extractor.  
   - The ViT version is vit_base_patch-16_224
